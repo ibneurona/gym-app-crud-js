@@ -1,2 +1,2 @@
 # gym-app-crud-js
-It a minamal app with CRUD vanilla JS
+Its a minamal app with CRUD vanilla JS
